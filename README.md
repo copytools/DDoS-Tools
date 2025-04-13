@@ -12,7 +12,7 @@
 > Terminal only accepts ANSI color.<br>
 > Username: <br>
 > Password: <br>
-<p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
+<p align="center">  <a href="https://t.me/"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
 

@@ -10,8 +10,8 @@
 </p>
 
 > Terminal only accepts ANSI color.<br>
-> Username: admin<br>
-> Password: admin<br>
+> Username: <br>
+> Password: <br>
 <p align="center">  <a href="https://t.me/learneverything9"><img width="160" height="50" src="https://i.imgur.com/N7AK7XY.png"></a></p>
  
 ## Language</br>
@@ -74,8 +74,7 @@ How to use:
 - Recommended in shell of google, azure,...
 - Using vps with high speed will be stronger
 
-git clone https://github.com/hoaan1995/ZxCDDoS/
-cd ZxCDDoS/
+git clone https://github.com
 npm i requests
 npm i https-proxy-agent
 npm i crypto-random-string
@@ -118,6 +117,5 @@ remember: you are responsible for the attacks since this tool was created for ed
 
 # CONTACT:
 ```sh
-Telegram: @zxcr9999
-Discord: zxcr9999#1770
+
 ```
